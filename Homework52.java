@@ -32,5 +32,5 @@ public class Homework52 {
             if (wordsMap.get(key).equals(0)) wordsWithOneOccurenceCounter++;
         }
         return wordsWithOneOccurenceCounter;
-    }
+    } 
 }
